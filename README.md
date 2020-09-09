@@ -1,4 +1,4 @@
 # GRCA_HydroResearch_dashboard
-Simple dashboard detailing sampling locations, operator, point of contact, and other metadata for major hydrology studies at GRCA
+Simple dashboard detailing sampling locations, operator, affiliated research organization, discrete and continuous data being collected at each field site, and other metadata for major hydrology studies at GRCA
 
 ![hydroadmindashboard](/dashboard_app.png)
